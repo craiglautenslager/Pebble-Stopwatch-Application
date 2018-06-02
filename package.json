@@ -1,0 +1,92 @@
+{
+    "author": "Craig lautenslager",
+    "dependencies": {},
+    "keywords": [],
+    "name": "wrist-coach",
+    "pebble": {
+        "displayName": "Wrist Coach",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/timer_pause.png",
+                    "name": "IMAGE_TIMER_PAUSE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/timer_run.png",
+                    "name": "IMAGE_TIMER_RUN",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/rep_num_back.png",
+                    "name": "REP_NUM_BACK",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/select_back.png",
+                    "name": "IMAGE_SELECT_BACK",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/sWatch_pause.png",
+                    "name": "IMAGE_SW_PAUSE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/sWatch_run.png",
+                    "name": "IMAGE_SW_RUN",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/prototype_back.png",
+                    "name": "IMAGE_SPLASH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/delerium_small.ttf",
+                    "name": "FONT_DELERIUM_20",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/Digital System.ttf",
+                    "name": "FONT_DIGITAL_SYSTEM_40",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/steelfish.tttf",
+                    "name": "FONT_STEEL_FISH_44",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/delirium.tttf",
+                    "name": "FONT_DELIRIUM_52",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "302c0e70-697a-487b-9de7-1a0a684bbca7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
